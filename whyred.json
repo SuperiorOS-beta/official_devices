@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime": 1675418289,
+      "filename": "SuperiorOS-Thirteen-whyred-COMMUNITY-20230203-1000.zip",
+      "id": "8d28a85a6a6581fc8a5ab604a0e3eb31b39f95671ba4f5266cb0ec1cf954f2cb",
+      "romtype": "RELEASE",
+      "size": 874158956,
+      "url": "https://master.dl.sourceforge.net/project/superioros/whyred/vanilla/SuperiorOS-Thirteen-whyred-COMMUNITY-20230203-1000.zip",
+      "version": "Thirteen",
+      "device_name": "whyred",
+      "maintainer": "me"
+    }
+  ]
+}
