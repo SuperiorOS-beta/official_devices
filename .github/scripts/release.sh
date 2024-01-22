@@ -33,5 +33,5 @@ for file in ./*.zip; do
     fi
 
     # Upload the file using gh
-    gh release create "$RELEASE_MESSAGE" "$file" -t "New Superior OS Update[Gapps]"
+    gh release create "$RELEASE_MESSAGE" "$file" -F release_notes.txt -t "New Superior OS Update[Gapps]"
 done
